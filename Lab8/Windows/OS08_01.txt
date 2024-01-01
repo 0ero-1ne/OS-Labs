@@ -1,0 +1,4 @@
+1) wmic memorychip list full
+2) Get-WmiObject -Class Win32_PhysicalMemory
+3) systeminfo | findstr "Mem"
+4) ?
